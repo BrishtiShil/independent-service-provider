@@ -2,9 +2,20 @@
 
 [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Bullet Point
 
-In the project directory, you can run:
+1.Home page create and set navbar
+2.Services show
+3.Login page
+4.Blog site create
+5.Description about me
+
+## List of Technologies
+
+1.React Router
+2.React Router hook
+3.React Bootstrap
+4.Firebase Authentication
 
 ### `npm start`
 
