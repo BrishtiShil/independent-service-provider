@@ -4,19 +4,22 @@
 
 ## Bullet Point
 
-1.Home page create and set navbar
-2.Services show
-3.Login page
-4.Blog site create
-5.Description about me
+<ol>
+<li>1.Home page create and set navbar</li>
+<li>2.Services show</li>
+<li>3.Login page</li>
+<li>4.Blog site create</li>
+<li>5.Description about me</li>
+</ol>
 
 ## List of Technologies
 
-1.React Router
-2.React Router hook
-3.React Bootstrap
-4.Firebase Authentication
-
+<ol>
+<li>1.React Router</li>
+<li>2.React Router hook</li>
+<li>3.React Bootstrap</li>
+<li>4.Firebase Authentication</li>
+</ol>
 ### `npm start`
 
 Runs the app in the development mode.\
