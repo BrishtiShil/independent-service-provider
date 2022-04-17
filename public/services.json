@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Programming er Bolod to Boss",
+        "price": "199",
+        "description": "Jhangkar's book on how bulls can become bosses by sticking to programming at work. In a previous programming book for the Hablus, Mahbub tried to capture the basics of programming in a fun way.",
+        "img": "book1.png"
+    },
+    {
+        "id": 2,
+        "name": "Programming Fourteen Groups",
+        "price": "199",
+        "description": "Jhangkar's project this time is to explain programming in simple language and he is writing about it.",
+        "img": "book2.png"
+    },
+    {
+        "id": 3,
+        "name": "Reacharge Your Down Battery",
+        "price": "200",
+        "description": "The purpose of this book is to give you a charger for life, for dreams, for achievement. So that you can recharge yourself with your down battery book whenever you need.",
+        "img": "book3.png"
+    }
+]

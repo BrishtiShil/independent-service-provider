@@ -2,7 +2,7 @@
 
 [Create React App](https://github.com/facebook/create-react-app).
 
-## Bullet Point
+## Features and Functionality
 
 <ol>
 <li>Home page create and set navbar</li>
