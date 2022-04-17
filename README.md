@@ -5,20 +5,20 @@
 ## Bullet Point
 
 <ol>
-<li>1.Home page create and set navbar</li>
-<li>2.Services show</li>
-<li>3.Login page</li>
-<li>4.Blog site create</li>
-<li>5.Description about me</li>
+<li>Home page create and set navbar</li>
+<li>Services show</li>
+<li>Login page</li>
+<li>Blog site create</li>
+<li>Description about me</li>
 </ol>
 
 ## List of Technologies
 
 <ol>
-<li>1.React Router</li>
-<li>2.React Router hook</li>
-<li>3.React Bootstrap</li>
-<li>4.Firebase Authentication</li>
+<li>React Router</li>
+<li>React Router hook</li>
+<li>React Bootstrap</li>
+<li>Firebase Authentication</li>
 </ol>
 ### `npm start`
 

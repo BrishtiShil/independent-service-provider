@@ -29,6 +29,9 @@ const Blogs = () => {
                 If we have a need to expose our API's outside of our system like third party app or even to access it from mobile apps we end up in two common ways to share the user information.Via API-token which is same as JWT token, where the token will be send via Authorization header which will get handled at API gateway to authenticate the user.And the other option is via Open Authentication(OAuth),OAuth is a protocol that allows an application to authenticate against server as a user.  The client then uses the token to access the resource on behalf of that user.
             </p>
             <h2>What other services does firebase provide other than authentication?</h2>
+            <p>
+                This Firebase Realtime Database URL is accessible without authentication. If the database contains sensitive information it's recommended to restrict access to this database.
+            </p>
         </div>
     );
 };
