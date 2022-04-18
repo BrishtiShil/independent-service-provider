@@ -4,20 +4,27 @@
         "name": "Programming er Bolod to Boss",
         "price": "199",
         "description": "Jhangkar's book on how bulls can become bosses by sticking to programming at work. In a previous programming book for the Hablus, Mahbub tried to capture the basics of programming in a fun way.",
-        "img": "book1.png"
+        "img": "https://i.ibb.co/9c5kZzM/book1.png"
     },
     {
         "id": 2,
         "name": "Programming Fourteen Groups",
-        "price": "199",
+        "price": "200",
         "description": "Jhangkar's project this time is to explain programming in simple language and he is writing about it.",
-        "img": "book2.png"
+        "img": "https://i.ibb.co/bss9TCf/book2-1-1.png"
     },
     {
         "id": 3,
         "name": "Reacharge Your Down Battery",
-        "price": "200",
+        "price": "300",
         "description": "The purpose of this book is to give you a charger for life, for dreams, for achievement. So that you can recharge yourself with your down battery book whenever you need.",
-        "img": "book3.png"
+        "img": "https://i.ibb.co/qWJjJ7C/book3-1.png"
+    },
+    {
+        "id": 4,
+        "name": "Habluder Jnno Programing",
+        "price": "250",
+        "description": "We are now standing at a time when learning programming is important to all of us. But many like us do not understand the content of Hablui programming properly. So tell me, will the Hubbles not learn programming? Not at all. Hablus means programming for the Hablus so that the relatively weak can learn programming just like them.",
+        "img": "https://i.ibb.co/DL6mJ2T/Add-Text-04-13-09-02-30-1.png"
     }
 ]
