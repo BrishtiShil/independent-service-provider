@@ -12,6 +12,7 @@ import Checkout from './Pages/Checkout/Checkout/Checkout';
 import RequireAuth from './Pages/Login/RequireAuth/RequireAuth';
 import ServiceDetail from './Pages/Home/ServiceDetails/ServiceDetail';
 
+
 function App() {
   return (
     <div>

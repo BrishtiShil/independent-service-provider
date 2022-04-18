@@ -16,7 +16,7 @@
 
 <ol>
 <li>React Router</li>
-<li>React Router hook</li>
+<li>React firebase hook</li>
 <li>React Bootstrap</li>
 <li>Firebase Authentication</li>
 </ol>
